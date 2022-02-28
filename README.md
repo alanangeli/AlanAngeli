@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente programando em Python
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Postando projetos e o que estou aprendendo
+- ⚡ Postando projetos e o que estou aprendendo
 - 😄 Procurando contribuir e aprender
 - ⚡ Bora codar! :)
 
