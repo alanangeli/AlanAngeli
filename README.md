@@ -1,7 +1,7 @@
 ## Olá, Mundo! 👋
 
 
-- 🔭 Atualmente programando em Python :)
+- 🔭 Back-End e Front-End :)
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ Postando projetos e o que estou aprendendo
 - 😄 Procurando contribuir e aprender
