@@ -4,7 +4,7 @@
 - 🔭 Back-End e Front-End :)
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ Postando projetos e o que estou aprendendo
-- 😄 Procurando contribuir e aprender
+- 😄 Procurando sempre contribuir e aprender
 - ⚡ Bora codar! :)
 
 <div align="center">
