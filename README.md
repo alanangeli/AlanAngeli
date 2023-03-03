@@ -1,9 +1,9 @@
 ## Olá, Mundo! 👋
 
 
-- 🔭 Back-End e Front-End :)
+- 🔭 Focando no Front-End
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Postando projetos e o que estou aprendendo
+- ⚡ Postando projetos, pondo em prática meus conhecimentos
 - 😄 Procurando sempre contribuir e aprender
 - ⚡ Bora codar! :)
 
