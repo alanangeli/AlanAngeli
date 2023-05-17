@@ -1,11 +1,11 @@
 ## Olá, Mundo! 👋
 
 
-- 🔭 Focando no Front-End
+- 🔭 Front-End | HTML | CSS | Javascript
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Postando projetos, pondo em prática meus conhecimentos
+- ⚡ Postando projetos, pondo em prática meus conhecimentos e compartilhando códigos
 - 😄 Procurando sempre contribuir e aprender
-- ⚡ Bora codar! :)
+- ⚡ Estudando atualmente Node.js, Express, jQuery e Bootstrap.
 
 <div align="center">
   <a href="https://github.com/alanangeli">
