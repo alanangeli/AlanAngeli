@@ -1,11 +1,11 @@
 ## Olá, Mundo! 👋
 
 
-- 🔭 Front-End | HTML | CSS | Javascript
+- 🔭 Front-End | HTML | CSS | Javascript | React | Node.js
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ Postando projetos, pondo em prática meus conhecimentos e compartilhando códigos
 - 😄 Procurando sempre contribuir e aprender
-- ⚡ Estudando atualmente Node.js, Express, jQuery e Bootstrap.
+- ⚡ Estudando atualmente React, Node.js e Express.
 
 
 <div align="center">
